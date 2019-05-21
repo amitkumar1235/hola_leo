@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 yep that's true . taati insane
+=======
+yep that's true .
+yes he is .
+>>>>>>> cdd74d8843debdcf5889d9d165d07478d49490ca
